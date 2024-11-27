@@ -61,15 +61,15 @@ python Women_Employment_Analysis.ipynb
 
 ## 4. Usage Guide
 
-# Data Preprocessing: Prepares and cleans the employment dataset for analysis.
+## Data Preprocessing: Prepares and cleans the employment dataset for analysis.
 
 python Women_Employment_Analysis.ipynb
 
-# Exploratory Data Analysis: Generates visualizations and insights from the data.
+## Exploratory Data Analysis: Generates visualizations and insights from the data.
 
 python Women_Employment_Analysis.ipynb
 
-# Recommendations: Provides insights and recommendations based on model outputs.
+## Recommendations: Provides insights and recommendations based on model outputs.
 
 python Women_Employment_Analysis.ipynb
 
@@ -97,7 +97,7 @@ Email: [thoyomvuni@gmail.com]
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-8. Acknowledgements
+## 8. Acknowledgements
 Special thanks to our mentors and the resources provided by Explore Academy for guidance and support in completing this project.
 
 
