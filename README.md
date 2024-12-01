@@ -94,7 +94,7 @@ Trello Board: Female Employment vs. Socioeconomic Factors
 Trello board link - https://trello.com/invite/b/6745b17f1dbb647268ab781a/ATTI4e85287bee7dc3e8efd499f06df2121fB51B7EFE/female-employment-vs-socioeconimic-factors
 Additionally, Power BI is used to create interactive visualizations and reports, providing a dynamic platform for exploring the dataset and uncovering actionable insights.
 
-Power BI Link: (Add Power BI report link once published)
+Power BI Link: (https://github.com/ThobMvuni/Female-Employment-vs-Socioeconimic-Factors/blob/eb602cc521d2b9aa0da3f8068fe8164837e41e95/Female%20Employment.pbix)
 
 ## 7. Contributors
 
