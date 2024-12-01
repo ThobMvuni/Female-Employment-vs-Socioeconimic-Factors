@@ -87,17 +87,26 @@ To install all dependencies, run:
 
 pip install -r requirements.txt
 
-## 6. Contributors
+## 6. Planning
+To ensure effective organization and task tracking, the project utilizes a Trello board to outline the workflow, track progress, and manage deliverables.
+
+Trello Board: Female Employment vs. Socioeconomic Factors
+Trello board link - https://trello.com/invite/b/6745b17f1dbb647268ab781a/ATTI4e85287bee7dc3e8efd499f06df2121fB51B7EFE/female-employment-vs-socioeconimic-factors
+Additionally, Power BI is used to create interactive visualizations and reports, providing a dynamic platform for exploring the dataset and uncovering actionable insights.
+
+Power BI Link: (Add Power BI report link once published)
+
+## 7. Contributors
 
 Thobile Mvuni
 Data Scientist, Project Lead
 Email: [thoyomvuni@gmail.com]
 
-## 7. License
+## 8. License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 8. Acknowledgements
+## 9. Acknowledgements
 Special thanks to our mentors and the resources provided by Explore Academy for guidance and support in completing this project.
 
 
