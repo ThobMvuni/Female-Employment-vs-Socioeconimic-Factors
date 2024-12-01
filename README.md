@@ -69,6 +69,8 @@ python Women_Employment_Analysis.ipynb
 
 python Women_Employment_Analysis.ipynb
 
+## Predictive Model
+
 ## Recommendations: Provides insights and recommendations based on model outputs.
 
 python Women_Employment_Analysis.ipynb
